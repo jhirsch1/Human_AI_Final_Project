@@ -1,0 +1,303 @@
+StartDate,EndDate,Status,IPAddress,Progress,Duration (in seconds),Finished,RecordedDate,ResponseId,RecipientLastName,RecipientFirstName,RecipientEmail,ExternalReference,LocationLatitude,LocationLongitude,DistributionChannel,UserLanguage,Q_RecaptchaScore,Instructions,Q50,Q1,Q24,Q12,Q25,Q13,Q26,Q14,Q27,Q51,Q15,Q28,Q16,Q29,Q17,Q30,Q18,Q31
+Start Date,End Date,Response Type,IP Address,Progress,Duration (in seconds),Finished,Recorded Date,Response ID,Recipient Last Name,Recipient First Name,Recipient Email,External Data Reference,Location Latitude,Location Longitude,Distribution Channel,User Language,Q_RecaptchaScore,"Thank you for agreeing to participate in a brief survey to assess how humans interact with robotic systems. 
+
+You will work with a robot to pick up and move the following objects: a water bottle, a can, and a wine glass. The goal is to safely place the object on the yellow square. 
+
+After seeing the object to move, you will decide whether to allow the robot to move it or to intervene and move the object yourself. 
+
+If you let the the robot complete the task, you will then watch a video of the robot performing the action before proceeding to the next question. 
+
+Participation is voluntary, and you may stop the survey at any time.","Before we start, on a scale of 1 (lowest) to 7 (highest), overall how much do you trust the robot?","The object to move is a WINE GLASS. 
+
+
+
+As a reminder, the rewards for completing the task are as follows:
+
+ 
+
+	
+		
+			 
+			Plastic Bottle
+			Metal Can
+			Wine Glass
+		
+		
+			Robot Success
+			 +1
+			 +2
+			 +3
+		
+		
+			Robot Failure
+			 0
+			 -4
+			 -12
+		
+		
+			Intervention
+			 0
+			 0
+			 0
+		
+	
+
+The rewards get added over time. Your goal is to maximize your reward!","On a scale of 1 (lowest) to 7 (highest), overall how much do you trust the robot?","The object to move is a PLASTIC BOTTLE
+
+
+As a reminder, the rewards for completing the task are as follows:
+
+ 
+
+	
+		
+			 
+			Plastic Bottle
+			Metal Can
+			Wine Glass
+		
+		
+			Robot Success
+			 +1
+			 +2
+			 +3
+		
+		
+			Robot Failure
+			 0
+			 -4
+			 -12
+		
+		
+			Intervention
+			 0
+			 0
+			 0
+		
+	
+
+The rewards get added over time. Your goal is to maximize your reward!","On a scale of 1 (lowest) to 7 (highest), overall how much do you trust the robot?","The object to move is a METAL CAN
+
+
+As a reminder, the rewards for completing the task are as follows:
+
+ 
+
+	
+		
+			 
+			Plastic Bottle
+			Metal Can
+			Wine Glass
+		
+		
+			Robot Success
+			 +1
+			 +2
+			 +3
+		
+		
+			Robot Failure
+			 0
+			 -4
+			 -12
+		
+		
+			Intervention
+			 0
+			 0
+			 0
+		
+	
+
+The rewards get added over time. Your goal is to maximize your reward!","On a scale of 1 (lowest) to 7 (highest), overall how much do you trust the robot?","The object to move is a WINE GLASS
+
+
+As a reminder, the rewards for completing the task are as follows:
+
+ 
+
+	
+		
+			 
+			Plastic Bottle
+			Metal Can
+			Wine Glass
+		
+		
+			Robot Success
+			 +1
+			 +2
+			 +3
+		
+		
+			Robot Failure
+			 0
+			 -4
+			 -12
+		
+		
+			Intervention
+			 0
+			 0
+			 0
+		
+	
+
+The rewards get added over time. Your goal is to maximize your reward!","On a scale of 1 (lowest) to 7 (highest), overall how much do you trust the robot?","Before we start, on a scale of 1 (lowest) to 7 (highest), overall how much do you trust the robot?","The object to move is a WINE GLASS
+
+
+As a reminder, the rewards for completing the task are as follows:
+
+ 
+
+	
+		
+			 
+			Plastic Bottle
+			Metal Can
+			Wine Glass
+		
+		
+			Robot Success
+			 +1
+			 +2
+			 +3
+		
+		
+			Robot Failure
+			 0
+			 -4
+			 -12
+		
+		
+			Intervention
+			 0
+			 0
+			 0
+		
+	
+
+The rewards get added over time. Your goal is to maximize your reward!","On a scale of 1 (lowest) to 7 (highest), overall how much do you trust the robot?","The object to move is a PLASTIC BOTTLE
+
+
+As a reminder, the rewards for completing the task are as follows:
+
+ 
+
+	
+		
+			 
+			Plastic Bottle
+			Metal Can
+			Wine Glass
+		
+		
+			Robot Success
+			 +1
+			 +2
+			 +3
+		
+		
+			Robot Failure
+			 0
+			 -4
+			 -12
+		
+		
+			Intervention
+			 0
+			 0
+			 0
+		
+	
+
+The rewards get added over time. Your goal is to maximize your reward!","On a scale of 1 (lowest) to 7 (highest), overall how much do you trust the robot?","The object to move is a METAL CAN
+
+
+As a reminder, the rewards for completing the task are as follows:
+
+ 
+
+	
+		
+			 
+			Plastic Bottle
+			Metal Can
+			Wine Glass
+		
+		
+			Robot Success
+			 +1
+			 +2
+			 +3
+		
+		
+			Robot Failure
+			 0
+			 -4
+			 -12
+		
+		
+			Intervention
+			 0
+			 0
+			 0
+		
+	
+
+The rewards get added over time. Your goal is to maximize your reward!","On a scale of 1 (lowest) to 7 (highest), overall how much do you trust the robot?","The object to move is a WINE GLASS
+
+
+As a reminder, the rewards for completing the task are as follows:
+
+ 
+
+	
+		
+			 
+			Plastic Bottle
+			Metal Can
+			Wine Glass
+		
+		
+			Robot Success
+			 +1
+			 +2
+			 +3
+		
+		
+			Robot Failure
+			 0
+			 -4
+			 -12
+		
+		
+			Intervention
+			 0
+			 0
+			 0
+		
+	
+
+The rewards get added over time. Your goal is to maximize your reward!","On a scale of 1 (lowest) to 7 (highest), overall how much do you trust the robot?"
+12/6/25 11:51,12/6/25 11:54,IP Address,128.148.207.11,100,167,True,12/6/25 11:54,R_7CgpZPEKCAN1qGA,,,,,41.8268,-71.4142,anonymous,EN,0.8999999762,I Understand,6,Intervene,5,Allow robot to complete action,6,Allow robot to complete action,6,Intervene,6,,,,,,,,,
+12/6/25 11:27,12/6/25 13:34,IP Address,174.196.57.76,100,7662,True,12/6/25 13:34,R_6b0FjEEsnT9rn1i,,,,,38.5753,-90.2651,anonymous,EN,1,I Understand,4,Allow robot to complete action,1,Intervene,1,Intervene,1,Intervene,1,,,,,,,,,
+12/6/25 13:58,12/6/25 14:02,IP Address,138.89.14.31,100,256,True,12/6/25 14:02,R_5n6q7L3BY574WfL,,,,,40.0022,-74.7885,anonymous,EN,1,I Understand,2,Intervene,3,Allow robot to complete action,4,Allow robot to complete action,4,Allow robot to complete action,6,,,,,,,,,
+12/6/25 14:14,12/6/25 14:17,IP Address,24.253.189.23,100,148,True,12/6/25 14:17,R_5iR86OOAJljEg2F,,,,,41.8233,-71.441,anonymous,EN,1,I Understand,,,,,,,,,,3,Intervene,3,Allow robot to complete action,4,Allow robot to complete action,5,Allow robot to complete action,3
+12/6/25 14:44,12/6/25 14:53,IP Address,73.215.94.213,100,538,True,12/6/25 14:53,R_5QAik0HdA5kWKKw,,,,,40.5687,-74.3202,anonymous,EN,1,I Understand,5,Allow robot to complete action,2,Intervene,4,Allow robot to complete action,4,,4,,,,,,,,,
+12/6/25 15:25,12/6/25 15:27,IP Address,130.132.173.19,100,119,True,12/6/25 15:27,R_1MoOcpdXgp06d9C,,,,,41.3186,-72.9302,anonymous,EN,1,I Understand,3,Allow robot to complete action,1,Allow robot to complete action,2,Allow robot to complete action,3,Intervene,4,,,,,,,,,
+12/7/25 16:46,12/7/25 16:50,IP Address,148.100.191.119,100,242,True,12/7/25 16:50,R_3LnZwNtxSGym3UB,,,,,41.7017,-73.9078,anonymous,EN,1,I Understand,5,Allow robot to complete action,2,Intervene,2,Allow robot to complete action,4,Allow robot to complete action,5,,,,,,,,,
+12/7/25 18:04,12/7/25 18:06,IP Address,128.148.206.76,100,102,True,12/7/25 18:06,R_eagH8ssdDyiSkEx,,,,,41.8268,-71.4142,anonymous,EN,1,I Understand,,,,,,,,,,2,Intervene,2,Allow robot to complete action,3,Allow robot to complete action,4,Intervene,4
+12/7/25 18:27,12/7/25 18:31,IP Address,24.60.20.12,100,223,True,12/7/25 18:31,R_7bOwFPrLbd2RfUu,,,,,41.3359,-71.9059,anonymous,EN,1,I Understand,3,Intervene,3,Allow robot to complete action,3,Allow robot to complete action,5,Allow robot to complete action,7,,,,,,,,,
+12/7/25 19:34,12/7/25 19:37,IP Address,24.60.20.12,100,175,True,12/7/25 19:37,R_7KxT9R8I3wlmHV7,,,,,41.3359,-71.9059,anonymous,EN,1,I Understand,4,Allow robot to complete action,1,Intervene,3,Intervene,4,Intervene,4,,,,,,,,,
+12/8/25 8:52,12/8/25 9:00,IP Address,70.181.16.112,100,446,True,12/8/25 9:00,R_6jNZ51wSrGswCwM,,,,,41.8307,-71.3982,anonymous,EN,1,I Understand,,,,,,,,,,5,Allow robot to complete action,4,Allow robot to complete action,6,Allow robot to complete action,7,Allow robot to complete action,4
+12/8/25 14:13,12/8/25 14:15,IP Address,174.219.248.151,100,132,True,12/8/25 14:15,R_6jTj3jGzkPTIbuE,,,,,38.8464,-77.1457,anonymous,EN,1,I Understand,4,Intervene,4,Allow robot to complete action,5,Intervene,5,Intervene,5,,,,,,,,,
+12/8/25 14:31,12/8/25 14:34,IP Address,130.44.161.251,100,167,True,12/8/25 14:34,R_6f3D1yeu2Rv85ea,,,,,42.3996,-71.1246,anonymous,EN,1,I Understand,,,,,,,,,,3,Allow robot to complete action,4,Allow robot to complete action,5,Allow robot to complete action,6,Allow robot to complete action,2
+12/8/25 15:34,12/8/25 15:36,IP Address,107.77.213.17,100,164,True,12/8/25 15:37,R_77M3jldCd0oNloR,,,,,37.7794,-122.2178,anonymous,EN,1,I Understand,,,,,,,,,,3,Intervene,3,Allow robot to complete action,4,Allow robot to complete action,5,Allow robot to complete action,3
+12/8/25 16:48,12/8/25 16:51,IP Address,70.18.7.59,100,192,True,12/8/25 16:51,R_3QMznadPuHcmBkQ,,,,,40.7428,-73.9712,anonymous,EN,1,I Understand,,,,,,,,,,5,Intervene,5,Allow robot to complete action,6,Allow robot to complete action,6,Allow robot to complete action,4
+12/8/25 20:37,12/8/25 20:41,IP Address,70.181.16.112,100,253,True,12/8/25 20:41,R_3FnNOd4gG56QuAd,,,,,41.8307,-71.3982,anonymous,EN,1,I Understand,3,Intervene,3,Allow robot to complete action,5,Allow robot to complete action,6,Allow robot to complete action,6,,,,,,,,,
+12/8/25 20:41,12/8/25 20:43,IP Address,146.75.222.0,100,90,True,12/8/25 20:43,R_1JroZrdmi1OOEcp,,,,,39.0469,-77.4903,anonymous,EN,1,I Understand,,,,,,,,,,4,Intervene,4,Allow robot to complete action,5,Allow robot to complete action,6,Intervene,6
+12/8/25 21:32,12/8/25 21:37,IP Address,100.40.122.90,100,287,True,12/8/25 21:37,R_1q7wmTby6irhREG,,,,,41.8333,-71.4314,anonymous,EN,1,I Understand,4,Intervene,4,Allow robot to complete action,5,Allow robot to complete action,5,Allow robot to complete action,6,,,,,,,,,
+12/9/25 15:40,12/9/25 15:43,IP Address,104.28.78.177,100,148,True,12/9/25 15:43,R_6dWjhum6AzLb4Qd,,,,,41.8268,-71.4142,anonymous,EN,1,I Understand,5,Allow robot to complete action,4,Allow robot to complete action,6,Allow robot to complete action,6,Intervene,6,,,,,,,,,
+12/9/25 19:56,12/9/25 19:58,IP Address,24.60.20.12,100,163,True,12/9/25 19:58,R_6KqfFp3tckUERzd,,,,,41.3359,-71.9059,anonymous,EN,1,I Understand,,,,,,,,,,4,Allow robot to complete action,5,Allow robot to complete action,5,Allow robot to complete action,6,Intervene,5
